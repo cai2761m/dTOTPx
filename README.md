@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+PS:This a learning project
+A cross-platform TOTP authenticator with end-to-end encrypted synchronization, built with Flutter.
